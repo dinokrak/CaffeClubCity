@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\CaffeClubCity\obj\Debug\net8.0\CaffeClubCity.Web.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CaffeClubCity\obj\Debug\net8.0\CaffeClubCity.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\CaffeClubCity\obj\Debug\net8.0\CaffeClubCity.Web.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\CaffeClubCity\obj\Debug\net8.0\CaffeClubCity.Web.AssemblyInfo.cs
+C:\Users\pc\source\repos\CaffeClubCity\obj\Debug\net8.0\CaffeClubCity.Web.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CaffeClubCity\obj\Debug\net8.0\CaffeClubCity.Web.RazorAssemblyInfo.cache
+C:\Users\pc\source\repos\CaffeClubCity\obj\Debug\net8.0\CaffeClubCity.Web.RazorAssemblyInfo.cs
