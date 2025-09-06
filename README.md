@@ -19,3 +19,7 @@ ASP.NET Core MVC web application for Caffe Club City management.
 - **Authentication**: ASP.NET Identity (Upcoming)
 
 ## Project Structure
+CaffeClubCity/
+├── CaffeClubCity.Web/ # MVC Web Application
+├── CaffeClubCity.Core/ # Business Models & Logic
+├── CaffeClubCity.Infrastructure/ # Data Access & EF Core
