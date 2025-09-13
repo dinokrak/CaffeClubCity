@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaffeClubCIty.Core", "..\CaffeClubCIty.Core\CaffeClubCIty.Core.csproj", "{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaffeClubCity.Core", "..\CaffeClubCIty.Core\CaffeClubCity.Core.csproj", "{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaffeClubCity.Infrastructure", "..\CaffeClubCity.Infrastructure\CaffeClubCity.Infrastructure.csproj", "{501A96DD-AFF0-40A5-B428-A9DEB878409E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaffeClubCity.Web", "..\CaffeClubCIty.Web2\CaffeClubCity.Web.csproj", "{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaffeClubCity.Web", "..\CaffeClubCIty.Web2\CaffeClubCity.Web.csproj", "{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
