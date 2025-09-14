@@ -23,12 +23,9 @@ ASP.NET Core MVC web application for Caffe Club City management.
 ## Project Structure
 CaffeClubCity/
 ├── CaffeClubCity.Web/ # MVC Web Application
+
 ├── CaffeClubCity.Core/ # Business Models & Logic
+
 ├── CaffeClubCity.Infrastructure/ # Data Access & EF Core
 
-## Setup
-1. Clone repository
-2. Restore NuGet packages  
-3. Run migrations: `Update-Database` 👈 DODAJ
-4. Default admin user: admin@caffeclubcity.com / Admin123! 👈 DODAJ
-5. Run application
+
