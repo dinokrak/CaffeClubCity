@@ -8,18 +8,24 @@ ASP.NET Core MVC web application for Caffe Club City management.
 - 📅 Reservation system for tables (Billiards, Darts, Digital games)
 - 📰 News/Events feed with social media integration
 - 🖼️ Gallery management
-- 📞 Contact form
-- 👨‍💼 Admin panel (Upcoming)
+- 📞 Contact form with admin panel 
+- 👨‍💼 Admin panel with authentication 
+- 🔐 User roles and authorization 
 
 ## Tech Stack
 
 - **Backend**: ASP.NET Core 8 MVC, Entity Framework Core
 - **Frontend**: Bootstrap 5, JavaScript
 - **Database**: MS SQL Server
-- **Authentication**: ASP.NET Identity (Upcoming)
+- **Authentication**: ASP.NET Identity 
+- **Authorization**: Role-based 
 
 ## Project Structure
 CaffeClubCity/
 ├── CaffeClubCity.Web/ # MVC Web Application
+
 ├── CaffeClubCity.Core/ # Business Models & Logic
+
 ├── CaffeClubCity.Infrastructure/ # Data Access & EF Core
+
+
