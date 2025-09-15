@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFkAAAAEAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwFsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-15T00:55:35.57Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Admin\\EditMenuItem.cshtml",
               "ViewState": "AQIAADYAAAAAAAAAAAAAAEkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T00:54:17.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T00:54:17.428Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Admin\\CreateMenuItem.cshtml",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAEgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T00:54:03.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T00:54:03.773Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Admin\\ContactMessages.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T00:54:02.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T00:54:02.147Z"
             }
           ]
         }
