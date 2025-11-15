@@ -3,37 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CaffeClubCity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\reservation\\createregular.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\reservation\\eventdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\reservation\\myreservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\admin\\reservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\reservation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\reservation\\eventdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}|..\\CaffeClubCIty.Core\\CaffeClubCity.Core.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.core\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}|..\\CaffeClubCIty.Core\\CaffeClubCity.Core.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.core\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\reservation\\createregular.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}|..\\CaffeClubCIty.Core\\CaffeClubCity.Core.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.core\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}|..\\CaffeClubCIty.Core\\CaffeClubCity.Core.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.core\\viewmodels\\tableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}|..\\CaffeClubCIty.Core\\CaffeClubCity.Core.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.core\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\admin\\edittable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -42,34 +48,16 @@
       "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\admin\\tables.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\admin\\addtable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{501A96DD-AFF0-40A5-B428-A9DEB878409E}|..\\CaffeClubCity.Infrastructure\\CaffeClubCity.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}|..\\CaffeClubCIty.Core\\CaffeClubCity.Core.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.core\\models\\enums\\reservationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}|..\\CaffeClubCIty.Core\\CaffeClubCity.Core.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.core\\models\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}|..\\CaffeClubCIty.Core\\CaffeClubCity.Core.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.core\\models\\enums\\tabletypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}|..\\CaffeClubCIty.Core\\CaffeClubCity.Core.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.core\\viewmodels\\reservationcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}|..\\CaffeClubCIty.Core\\CaffeClubCity.Core.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.core\\models\\musicevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}|..\\CaffeClubCIty.Core\\CaffeClubCity.Core.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.core\\viewmodels\\createregularreservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}|..\\CaffeClubCIty.Core\\CaffeClubCity.Core.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.core\\viewmodels\\createreservationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -88,7 +76,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,86 +102,116 @@
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\MyReservations.cshtml",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Reservation\\MyReservations.cshtml",
               "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\MyReservations.cshtml",
-              "ViewState": "AQIAAHQAAAAAAAAAAAAUwIMAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T01:48:15.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\News\\Details.cshtml",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\News\\Details.cshtml",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\News\\Details.cshtml",
-              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\News\\Details.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T11:45:29.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\News\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\News\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\News\\Index.cshtml",
-              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\News\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T11:45:27.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T19:18:22.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateRegular.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Reservation\\CreateRegular.cshtml",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\CreateRegular.cshtml",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Reservation\\CreateRegular.cshtml",
-              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\CreateRegular.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T01:22:40.836Z",
+              "WhenOpened": "2025-11-15T22:39:18.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Reservations.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Admin\\Reservations.cshtml",
+              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Admin\\Reservations.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Admin\\Reservations.cshtml",
+              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Admin\\Reservations.cshtml",
+              "ViewState": "AQIAACkCAAAAAAAAAADwv0oCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T22:18:30.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Controllers\\ReservationController.cs",
+              "ViewState": "AQIAAIMBAAAAAAAAAAAwwLQBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:55:42.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "EventDetails.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Reservation\\EventDetails.cshtml",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\EventDetails.cshtml",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Reservation\\EventDetails.cshtml",
               "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\EventDetails.cshtml",
-              "ViewState": "AQIAACYDAAAAAAAAAAAAADUDAAAnAAAA",
+              "ViewState": "AQIAAGUDAAAAAAAAAAAQwHYDAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T02:48:02.775Z"
+              "WhenOpened": "2025-10-31T02:48:02.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Reservation.cs",
+              "RelativeToolTip": "..\\CaffeClubCIty.Core\\Models\\Reservation.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wCoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:59:00.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Reservation\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Reservation\\Create.cshtml",
+              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\Create.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAHYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T00:51:18.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\Models\\Table.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Table.cs",
+              "RelativeToolTip": "..\\CaffeClubCIty.Core\\Models\\Table.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:01:39.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Controllers\\AdminController.cs",
               "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAFYDAAAAAAAAAAAiwGwDAAAsAAAA",
+              "ViewState": "AQIAANIDAAAAAAAAAAAQwPUDAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T01:55:42.213Z"
+              "WhenOpened": "2025-10-31T01:55:42.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "CreateRegular.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Reservation\\CreateRegular.cshtml",
+              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\CreateRegular.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Reservation\\CreateRegular.cshtml",
+              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\CreateRegular.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T01:22:40.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "TableViewModel.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\ViewModels\\TableViewModel.cs",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\ViewModels\\TableViewModel.cs",
@@ -205,31 +223,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Reservation\\Create.cshtml",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\Create.cshtml",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Reservation\\Create.cshtml",
-              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\Create.cshtml",
-              "ViewState": "AQIAADgAAAAAAAAAAAAAAHYAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T00:51:18.462Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Reservation.cs",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\Models\\Reservation.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Reservation.cs",
-              "RelativeToolTip": "..\\CaffeClubCIty.Core\\Models\\Reservation.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAA3wE8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T18:59:00.249Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcEAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T20:39:09.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\News\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\News\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\News\\Details.cshtml",
+              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\News\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T11:45:29.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Home\\Index.cshtml",
@@ -241,31 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ReservationType.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Enums\\ReservationType.cs",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\Models\\Enums\\ReservationType.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Enums\\ReservationType.cs",
-              "RelativeToolTip": "..\\CaffeClubCIty.Core\\Models\\Enums\\ReservationType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T19:16:25.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Table.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Table.cs",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\Models\\Table.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Table.cs",
-              "RelativeToolTip": "..\\CaffeClubCIty.Core\\Models\\Table.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T19:15:20.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AddTable.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Admin\\AddTable.cshtml",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Admin\\AddTable.cshtml",
@@ -277,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "EditTable.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Admin\\EditTable.cshtml",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Admin\\EditTable.cshtml",
@@ -289,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Tables.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Admin\\Tables.cshtml",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Admin\\Tables.cshtml",
@@ -301,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCity.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "..\\CaffeClubCity.Infrastructure\\Data\\ApplicationDbContext.cs",
@@ -313,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "ReservationCreateViewModel.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\ViewModels\\ReservationCreateViewModel.cs",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\ViewModels\\ReservationCreateViewModel.cs",
@@ -326,42 +320,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "TableTypeEnum.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Enums\\TableTypeEnum.cs",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\Models\\Enums\\TableTypeEnum.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Enums\\TableTypeEnum.cs",
-              "RelativeToolTip": "..\\CaffeClubCIty.Core\\Models\\Enums\\TableTypeEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T19:16:26.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ReservationStatus.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Enums\\ReservationStatus.cs",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\Models\\Enums\\ReservationStatus.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\Enums\\ReservationStatus.cs",
-              "RelativeToolTip": "..\\CaffeClubCIty.Core\\Models\\Enums\\ReservationStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T00:46:01.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MusicEvent.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\MusicEvent.cs",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\Models\\MusicEvent.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\MusicEvent.cs",
-              "RelativeToolTip": "..\\CaffeClubCIty.Core\\Models\\MusicEvent.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T19:09:03.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "CreateRegularReservationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\ViewModels\\CreateRegularReservationViewModel.cs",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\ViewModels\\CreateRegularReservationViewModel.cs",
@@ -373,19 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ReservationController.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Controllers\\ReservationController.cs",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Controllers\\ReservationController.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Controllers\\ReservationController.cs",
-              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Controllers\\ReservationController.cs",
-              "ViewState": "AQIAAOEAAAAAAAAAAAAcwP0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T18:55:42.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 19,
               "Title": "CreateReservationRequest.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\ViewModels\\CreateReservationRequest.cs",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\ViewModels\\CreateReservationRequest.cs",
@@ -397,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 20,
               "Title": "TableType.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\TableType.cs",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\Models\\TableType.cs",
@@ -409,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 21,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\Models\\ApplicationUser.cs",
