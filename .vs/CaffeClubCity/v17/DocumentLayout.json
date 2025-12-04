@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CaffeClubCity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\menu\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\reservation\\eventdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,15 +16,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -37,27 +33,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Menu\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Menu\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Menu\\Index.cshtml",
-              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Menu\\Index.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAQwEUAAAAUAAAA",
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Menu\\Category.cshtml",
+              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Menu\\Category.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Menu\\Category.cshtml",
+              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Menu\\Category.cshtml",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAJ8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-03T18:21:25.423Z",
+              "WhenOpened": "2025-12-04T17:47:49.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EventDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Reservation\\EventDetails.cshtml",
-              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\EventDetails.cshtml",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Reservation\\EventDetails.cshtml",
-              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Reservation\\EventDetails.cshtml",
-              "ViewState": "AQIAAMkBAAAAAAAAAAAAANcBAAATAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAALgAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-03T18:10:31.543Z",
+              "WhenOpened": "2025-12-04T17:47:47.984Z",
               "EditorCaption": ""
             }
           ]
