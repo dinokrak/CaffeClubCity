@@ -361,3 +361,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/CaffeClubCity.sln
+
+# Production configuration files
+appsettings.Production.json
+appsettings.*.json
+!appsettings.json
+!appsettings.*.TEMPLATE.json
+*.secrets.json
