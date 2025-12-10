@@ -364,8 +364,12 @@ FodyWeavers.xsd
 /CaffeClubCity.sln
 
 # Production configuration files
-appsettings.Production.json
-appsettings.*.json
-!appsettings.json
+# Application Settings (Secrets)
+**/appsettings.Production.json
+**/appsettings.Development.json
+**/appsettings.local.json
+*.secrets.json
+**/appsettings.*.json
+!**/appsettings.json
 !appsettings.*.TEMPLATE.json
 *.secrets.json
