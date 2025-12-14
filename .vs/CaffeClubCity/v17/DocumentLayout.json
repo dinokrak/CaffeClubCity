@@ -3,22 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CaffeClubCity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{501A96DD-AFF0-40A5-B428-A9DEB878409E}|..\\CaffeClubCity.Infrastructure\\CaffeClubCity.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B48CF4-FF9B-4D32-84FB-D42DDE8A877C}|..\\CaffeClubCIty.Core\\CaffeClubCity.Core.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.core\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{501A96DD-AFF0-40A5-B428-A9DEB878409E}|..\\CaffeClubCity.Infrastructure\\CaffeClubCity.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D8B0121-B8D0-45CF-B9E1-9139ADA1A6C5}|..\\CaffeClubCIty.Web2\\CaffeClubCity.Web.csproj|c:\\users\\pc\\source\\repos\\caffeclubcity.web2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -31,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,20 +53,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Core\\ViewModels\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Core\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "..\\CaffeClubCIty.Core\\ViewModels\\ChangePasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:30:53.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T15:28:12.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Controllers\\AccountController.cs",
               "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAKcAAAAAAAAAAAAuwLoAAAAAAAAA",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAAAGgBAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-14T13:55:17.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\appsettings.Production.json",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\appsettings.Production.json",
@@ -68,38 +100,37 @@
               "RelativeToolTip": "..\\CaffeClubCIty.Web2\\appsettings.Production.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-14T13:16:02.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T13:16:02.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\appsettings.Development.json",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\appsettings.Development.json",
               "RelativeToolTip": "..\\CaffeClubCIty.Web2\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-12-14T13:15:38.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCity.Infrastructure\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "..\\CaffeClubCity.Infrastructure\\Services\\EmailService.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CaffeClubCity.Infrastructure\\Services\\EmailService.cs",
               "RelativeToolTip": "..\\CaffeClubCity.Infrastructure\\Services\\EmailService.cs",
-              "ViewState": "AQIAALMAAAAAAAAAAAAuwNkAAAA1AAAA",
+              "ViewState": "AQIAAFoBAAAAAAAAAAAQwI4BAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T21:06:10.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Controllers\\HomeController.cs",
@@ -111,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\appsettings.json",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\appsettings.json",
@@ -123,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CaffeClubCIty.Web2\\Program.cs",
               "RelativeDocumentMoniker": "..\\CaffeClubCIty.Web2\\Program.cs",
@@ -131,8 +162,7 @@
               "RelativeToolTip": "..\\CaffeClubCIty.Web2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAKEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T22:09:28.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T22:09:28.055Z"
             }
           ]
         }
